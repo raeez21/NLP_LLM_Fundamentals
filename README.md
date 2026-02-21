@@ -19,3 +19,6 @@ Perplexity: [Read more](https://www.cs.bu.edu/fac/snyder/cs505/PerplexityPosts.p
 ## CBOW Word2Vec Model
 
 ![Cbow Image](https://github.com/raeez21/NLP_Basics/blob/main/CBOW_Image.png)
+
+## HuggingFace PEFT
+https://huggingface.co/docs/peft/en/index
