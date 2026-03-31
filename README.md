@@ -22,3 +22,7 @@ Perplexity: [Read more](https://www.cs.bu.edu/fac/snyder/cs505/PerplexityPosts.p
 
 ## HuggingFace PEFT
 https://huggingface.co/docs/peft/en/index
+
+## Finetuning chat models
+1. [How to finetune chat models](https://developers.openai.com/cookbook/examples/how_to_finetune_chat_models)
+2. [System propmt leaks](https://github.com/asgeirtj/system_prompts_leaks)
